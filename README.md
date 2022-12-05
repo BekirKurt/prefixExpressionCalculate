@@ -1,4 +1,4 @@
 # prefixifadenindegerinihesaplama
 <hr>
 
-Prefix ifadelerin degerini hesaplama kuyruk yapisi ile <br>
+Prefix ifadelerin degerini kuyruk yapisi ile hesaplama.<br>
